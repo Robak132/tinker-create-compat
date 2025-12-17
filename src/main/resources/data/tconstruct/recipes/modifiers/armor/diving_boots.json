@@ -8,6 +8,6 @@
     { "item": "create:andesite_alloy" },
     { "item": "minecraft:leather_boots" }
   ],
-  "result": "tinkersdiving:diving_boots" ,
+  "result": "tinker_create_equipment:diving_boots" ,
   "slots": { "abilities": 1 }
 }

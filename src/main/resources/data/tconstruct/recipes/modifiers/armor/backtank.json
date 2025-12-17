@@ -9,6 +9,6 @@
     "level": {
     "max": 6
   },
-  "result":  "tinkersdiving:backtank" ,
+  "result":  "tinker_create_equipment:backtank" ,
   "slots": { "abilities": 1 }
 }

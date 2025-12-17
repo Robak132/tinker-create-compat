@@ -1,0 +1,15 @@
+{
+    "modifier.tinker_create_equipment.backtank": "Backtank",
+    "modifier.tinker_create_equipment.backtank.6": "Bomb in the Making",
+    "modifier.tinker_create_equipment.backtank.desc": "Stores pressurized air for diving and fire resistance. Capacity increases with modifier level.",
+    "modifier.tinker_create_equipment.backtank.flavor": "Just add Mentos!",
+    "modifier.tinker_create_equipment.backtank.description": "Provides a pressurized air supply for breathing in inhospitable environments and powering pneumatic tools.",
+    "modifier.tinker_create_equipment.diving_helmet": "Diving Helmet",
+    "modifier.tinker_create_equipment.diving_helmet.desc": "Allows for extended underwater breathing using pressurized air and enhanced underwater vision.",
+    "modifier.tinker_create_equipment.diving_helmet.description": "Helmet now functions like Create's Diving gear, allowing indefinite underwater breathing when supplied pressurized air.",
+    "modifier.tinker_create_equipment.diving_helmet.flavor": "Scuba!",
+    "modifier.tinker_create_equipment.diving_boots": "Diving Boots",
+    "modifier.tinker_create_equipment.diving_boots.desc": "Allows for improved movement underwater, reducing drag, increasing speed, and allows walking on the bottom.",
+    "modifier.tinker_create_equipment.diving_boots.flavor": "Like a Brick!",
+    "modifier.tinker_create_equipment.diving_boots.description": "Boots now function like Create's Diving Boots, allowing for improved underwater movement and accelerated water falling speed."
+}

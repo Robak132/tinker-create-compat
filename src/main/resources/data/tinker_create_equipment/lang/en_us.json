@@ -1,0 +1,15 @@
+{
+    "modifier.tinker_create_equipment.backtank": "Backtank",
+    "modifier.tinker_create_equipment.backtank.desc": "Stores pressurized air for diving and fire resistance. Capacity increases with modifier level.",
+    "modifier.tinker_create_equipment.backtank.flavor": "Pressurized!",
+    "modifier.tinker_create_equipment.diving_helmet": "Diving Helmet",
+    "modifier.tinker_create_equipment.diving_helmet.desc": "Allows for extended underwater breathing using pressuruzed air and enhanced underwater vision.",
+    "modifier.tinker_create_equipment.diving_helmet.flavor": "Scuba!",
+    "modifier.tinker_create_equipment.diving_boots": "Diving Boots",
+    "modifier.tinker_create_equipment.diving_boots.desc": "Allows for improved movement underwater, reducing drag, increasing speed, and allows walking on the bottom.",
+    "modifier.tinker_create_equipment.diving_boots.flavor": "Like a Brick!",
+    "modifier.tinker_create_equipment.modifier_name": "Tinker's Diving Modifiers",
+    "modifier.tinker_create_equipment.modifier_description": "Adds Diving Helmet, Backtank, and Diving Boots modifiers to Tinkers’ armor, hooking into Create’s air & lava‐swim logic very jankily. Trust me, it can get a lot worse.",
+    "modifier.tinker_create_equipment.modifier_flavor": "Dive into the depths with Tinker's Diving Modifiers!",
+    "modifier.tinker_create_equipment.modifier_version": "0.1.4"
+}

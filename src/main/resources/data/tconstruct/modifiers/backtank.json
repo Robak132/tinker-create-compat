@@ -1,9 +1,9 @@
 {
-  "modifier": "tinkersdiving:backtank",
-  "name": "modifier.tinkersdiving.backtank",
-  "description": "modifier.tinkersdiving.backtank.desc",
-  "flavor": "modifier.tinkersdiving.backtank.flavor",
-  "icon": "tinkersdiving:tinkering/gui/modifiers/backtank",
+  "modifier": "tinker_create_equipment:backtank",
+  "name": "modifier.tinker_create_equipment.backtank",
+  "description": "modifier.tinker_create_equipment.backtank.desc",
+  "flavor": "modifier.tinker_create_equipment.backtank.flavor",
+  "icon": "tinker_create_equipment:tinkering/gui/modifiers/backtank",
   "levels": 6,
   "slot": "armor.chest"
 }

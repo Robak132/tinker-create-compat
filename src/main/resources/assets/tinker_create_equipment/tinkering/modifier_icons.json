@@ -1,0 +1,5 @@
+{
+    "tinker_create_equipment:backtank":  "tinker_create_equipment:gui/modifiers/backtank",
+    "tinker_create_equipment:diving_helmet": "tinker_create_equipment:gui/modifiers/diving_helmet",
+    "tinker_create_equipment:diving_boots": "tinker_create_equipment:gui/modifiers/diving_boots"
+}

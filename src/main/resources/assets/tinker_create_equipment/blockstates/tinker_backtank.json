@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "tinker_create_equipment:block/tinker_backtank/tinker_backtank", "y": 0 },
+    "facing=south": { "model": "tinker_create_equipment:block/tinker_backtank/tinker_backtank", "y": 180 },
+    "facing=west":  { "model": "tinker_create_equipment:block/tinker_backtank/tinker_backtank", "y": 270 },
+    "facing=east":  { "model": "tinker_create_equipment:block/tinker_backtank/tinker_backtank", "y": 90 }
+  }
+}
